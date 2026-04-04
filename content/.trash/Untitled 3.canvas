@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"16883a3301b6a44a","type":"text","text":"","x":53,"y":-585,"width":250,"height":60},
+		{"id":"d4bb5043855b8d0a","type":"file","file":"App Store/Apps/Productivity/Obsidian/Obsidian Commands.md","x":-640,"y":-281,"width":400,"height":400},
+		{"id":"0f41d98f11bec6f3","type":"file","file":"Untitled.base","x":-180,"y":-260,"width":400,"height":400}
+	],
+	"edges":[]
+}

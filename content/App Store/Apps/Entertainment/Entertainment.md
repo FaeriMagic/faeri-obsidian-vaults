@@ -1,0 +1,5 @@
+---
+tags:
+  - app/entertainment
+---
+- [[Freecash]]
