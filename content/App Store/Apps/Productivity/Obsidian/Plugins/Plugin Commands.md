@@ -1,7 +1,6 @@
-# Plugin Commands
 ← Go back to [[Plugins]]
 ## Notebook Navigator: Add tag to selected files
-ROpens a prompt to add a tag to all currently selected files in the Notebook Navigator panel, writing it to each file's frontmatter. Requires the [[Notebook Navigator]] community plugin by Johan Sanneblad.
+Opens a prompt to add a tag to all currently selected files in the Notebook Navigator panel, writing it to each file's frontmatter. Requires the [[Notebook Navigator]] community plugin by Johan Sanneblad.
 ## Notebook Navigator: Add to shortcuts
 Adds the currently selected file or folder to the Shortcuts section in the Notebook Navigator panel. Requires the [[Notebook Navigator]] community plugin by Johan Sanneblad.
 ## Notebook Navigator: Collapse / expand all items
@@ -120,3 +119,19 @@ Moves your cursor to the next `<% tp.file.cursor() %>` placeholder in the curren
 Opens a modal where you can select a template to insert at your current cursor position in the active note. Any Templater syntax in the template is processed upon insertion. Requires the [[Templater]] community plugin by SilentVoid13.
 ## Templater: Replace templates in the active file
 Processes and replaces all unrendered Templater syntax in the current note. Useful if a template was inserted without being processed, or if you need to manually trigger template rendering. Requires the [[Templater]] community plugin by SilentVoid13.
+## Wayback Archiver: Archive all links in vault
+Submits all external links across every note in your vault to the Wayback Machine for archiving. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Archive links in current note
+Submits all external links in the current note to the Wayback Machine for archiving. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Clear failed archive log
+Clears the log of links that previously failed to be archived. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Export failed archive log
+Exports the log of failed archive attempts to a file for review. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Force re-archive all links in vault
+Resubmits all external links across your entire vault to the Wayback Machine, including links that have already been archived. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Force re-archive links in current note 
+Resubmits all external links in the current note to the Wayback Machine, including links that have already been archived. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Retry failed archive attempts
+Resubmits only the links that previously failed to archive, without affecting already successful archives. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.
+## Wayback Archiver: Retry failed archive attempts (force replace)
+Resubmits all previously failed links to the Wayback Machine, overwriting any partial or incomplete archive entries. Requires the [[Wayback Archiver]] community plugin by 石津栄太郎.

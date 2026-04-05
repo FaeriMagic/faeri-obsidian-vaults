@@ -1,5 +1,4 @@
 ---
-title: Github documentation
 summary: Obsidian plugin which automatically archives web links via Wayback Machine and appends archived versions in notes.
 tags:
   - documentation/github

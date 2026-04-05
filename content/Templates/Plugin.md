@@ -7,37 +7,33 @@ created:
 last updated:
 platforms:
 ---
-# Plugin name
 > Community plugin blurb.
 
-| Github | Obsidian Stats |
-| :----: | :------------: |
+| Obsidian Stats |
+| :------------: |
+> [!abstract] Github
+> > [!info]- README
+> > - Heading 1
+> > - Heading 2
+> > - Heading 3
+> 
+> > [!info]- Release history
+> > **Year**
+> > - Version: Date
 
-```tabs
-tab: Github documentation
-- Heading 1
-- Heading 2
-- Heading 3
-  
-tab: Settings
-- Heading 4
-- Heading 5
-- Heading 6
+> [!abstract] Plugin
+> > [!warning] Requirements
+> > Contents
+> 
+> > [!info]- Settings
+> > - Heading 4
+> > - Heading 5
+> > - Heading 6
+> 
+> > [!info]- Commands (& hotkeys)
+> > | Command                              | Hotkey      |
+> > | :------------------------------- | -----------: |
+> > | Plugin 1                                  | `Alt + #` |
+> > | Plugin 2                                  | `Alt + #` |
+> > | Remember to use \ for pipes | `Alt + #` |
 
-tab: Commands (& hotkeys)
-| Command                     | Hotkey    |
-| --------------------------- | --------: |
-| Plugin 1                    | `Alt + #` |
-| Plugin 2                    | `Alt + #` |
-| Remember to use \ for pipes | `Alt + #` |
-
-tab: Release history
-
-**Year**
-- Version: Date
-
-tab: Notes
-- Heading 7
-- Heading 8
-- Heading 9
-```
