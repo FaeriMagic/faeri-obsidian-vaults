@@ -23,9 +23,12 @@ platforms:
 
 > [!abstract] Plugin
 > > [!warning] Requirements
+> > %% Leave this line blank, otherwise Quarts will merge the contents into the header. %%
 > > Contents
 > 
 > > [!info]- Settings
+> > %% Leave this line blank, otherwise Quarts will merge the contents into the header. %%
+> > **Settings category**
 > > - Heading 4
 > > - Heading 5
 > > - Heading 6

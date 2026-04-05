@@ -53,10 +53,12 @@ tags:
 > > - [[Wayback Archiver - Github documentation#LICENSE|LICENSE]]
 
 > [!abstract] Plugin
-> > [!warning] Requirements (Experimental)
+> > [!warning] Requirements <span style="font-size: 12px; font-weight: 600; line-height: 16px; vertical-align: super; padding: 2px 8px;">Experimental</span>
+> > 
 > > You need a [Wayback Machine](https://archive.org/) account with [SPN API v2 keys](https://archive.org/account/s3.php) to archive links.
 > 
 > > [!info]- Settings
+> > 
 > > **Archive.org API keys (global)**
 > > - [[Wayback Archiver - Settings#Archive.org SPN access key|Archive.org SPN access key]]
 > > - [[Wayback Archiver - Settings#Archive.org SPN secret key|Archive.org SPN secret key]]
