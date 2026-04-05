@@ -53,29 +53,34 @@ tags:
 > > - [[Wayback Archiver - Github documentation#LICENSE|LICENSE]]
 
 > [!abstract] Plugin
-> > [!warning] Requirements <span style="font-size: 12px; font-weight: 600; line-height: 16px; vertical-align: super; padding: 2px 8px;">Experimental</span>
+> > [!warning] Requirements (Experimental)
 > > You need a [Wayback Machine](https://archive.org/) account with [SPN API v2 keys](https://archive.org/account/s3.php) to archive links.
 > 
 > > [!info]- Settings
-> > ### Archive.org API keys (global)
+> > **Archive.org API keys (global)**
 > > - [[Wayback Archiver - Settings#Archive.org SPN access key|Archive.org SPN access key]]
 > > - [[Wayback Archiver - Settings#Archive.org SPN secret key|Archive.org SPN secret key]]
-> > ### Profiles
+> >   
+> > **Profiles**
 > > - [[Wayback Archiver - Settings#Active profile|Active profile]]
-> > ### Archive link format
+> >   
+> > **Archive link format**
 > > - [[Wayback Archiver - Settings#Date format|Date format]]
 > > - [[Wayback Archiver - Settings#Archive link text|Archive link text]]
-> > ### Filtering rules (optional)
+> >   
+> > **Filtering rules (optional)**
 > > - [[Wayback Archiver - Settings#Ignore URL patterns|Ignore URL patterns]]
 > >  - [[Wayback Archiver - Settings#Path patterns|Path patterns]]
 > >  - [[Wayback Archiver - Settings#URL patterns|URL patterns]]
 > > - [[Wayback Archiver - Settings#URL substitution rules|URL substitution rules]]
-> > ### Advanced
+> >   
+> > **Advanced**
 > > - [[Wayback Archiver - Settings#API request delay (ms)|API request delay (ms)]]
 > > - [[Wayback Archiver - Settings#Max status check retries|Max status check retries]]
 > > - [[Wayback Archiver - Settings#Archive freshness (days)|Archive freshness (days)]]
 > > - [[Wayback Archiver - Settings#Auto clear failed logs|Auto clear failed logs]]
-> > ### SPN API v2 options
+> >   
+> > **SPN API v2 options**
 > > - [[Wayback Archiver - Settings#Capture screenshot|Capture screenshot]]
 > > - [[Wayback Archiver - Settings#Capture all resources (capture_all=1)|Capture all resources (capture_all=1)]]
 > > - [[Wayback Archiver - Settings#JS behaviour timeout (ms)|JS behaviour timeout (ms)]]
