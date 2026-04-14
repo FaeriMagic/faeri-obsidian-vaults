@@ -2,12 +2,12 @@
 aliases:
   - Matthew Meyers
   - mgmeyers
-education: "[[Antioch University Seattle]]"
-platforms:
-  - "[[Github]]"
-  - "[[LinkedIn]]"
+Education: "[[Antioch University Seattle]]"
 tags:
   - gender/male
+Platforms:
+  - "[[Github]]"
+  - "[[LinkedIn]]"
 ---
 ![[avatar - Meyers, Matthew.png|100]]
 

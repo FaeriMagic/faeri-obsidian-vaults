@@ -1,12 +1,12 @@
 ---
 aliases:
   - Patrick Tournet
-platforms:
+tags:
+  - gender/male
+Platforms:
   - "[[Github]]"
   - "[[PayPal]]"
   - "[[X (Twitter)]]"
-tags:
-  - gender/male
 ---
 ![[avatar - Tournet, Patrick.jpg|100]]
 

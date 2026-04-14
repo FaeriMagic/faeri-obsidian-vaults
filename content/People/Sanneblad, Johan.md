@@ -1,14 +1,14 @@
 ---
 aliases:
   - Johan Sanneblad
-education: "[[University of Gothenberg]]"
-platforms:
+Education: "[[University of Gothenberg]]"
+tags:
+  - gender/male
+Platforms:
   - "[[Buy Me a Coffee]]"
   - "[[Github]]"
   - "[[LinkedIn]]"
   - "[[YouTube]]"
-tags:
-  - gender/male
 ---
 ![[avatar - Sanneblad, Johan.jpg|100]]
 
@@ -18,5 +18,5 @@ tags:
 | Github          | https://github.com/johansan                                                          |
 | LinkedIn        | https://www.linkedin.com/in/johansan/                                                |
 | YouTube         | https://www.youtube.com/channel/UCmQnhGqGtMYsdgxuaEnfmsw (Join date: March 3, 2011 ) |
-# Obsidian plugins
-- [[Notebook Navigator]]
+## Obsidian plugins
+- [[Daily notes/2012/Quarter 3/Quarter 3]]

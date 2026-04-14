@@ -1,7 +1,9 @@
 ---
-created: 2025-06-06T00:00:00Z
+created: 2025-06-09T00:00:00Z
+icon: BiCalendarWeek
 ---
-# June
-| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-|   9    |   10    |    11     |    12    |   13   |    14    |   15   |
+← [[Week 23|previous week]] | next week →
+## June
+| Monday | Tuesday |     Wednesday      | Thursday | Friday | Saturday | Sunday |
+| :----: | :-----: | :----------------: | :------: | :----: | :------: | :----: |
+|   9    |   10    | [[2025-06-11\|11]] |    12    |   13   |    14    |   15   |

@@ -1,0 +1,19 @@
+---
+created: 2017-07-01T00:00:00Z
+icon: BiCalendarWeekFill
+---
+← previous month | [[Daily notes/2023/Quarter 3/08 August/08 August|next month]] →
+
+| Week 26 | Week 27 | Week 28 | Week 29 | Week 30 | Week 31 |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+**Wikipedia:** [Portal:Current events/July 2023](https://en.wikipedia.org/wiki/Portal:Current_events/July_2023)
+## Social media
+- [[Reader's Digest|@readersdigest]] was the #33,989,139th person to join Threads.
+- [[Ong, Giannina|@thisisgiannina]] was the #89,640,166th person to join Threads. 
+## Zodiac
+| **Cancer**<br>(June 23 - July 22) | **Leo**<br>(July 23 - August 22) |
+| :-------------------------------: | :------------------------------: |
+### Links
+- [[i.TheHoroscope.co]]
+	- [Cancer Rabbit: The Emotional Artist Of The Chinese Western Zodiac](https://i.thehoroscope.co/cancer-rabbit-the-emotional-artist-of-the-chinese-western-zodiac/) [🏛️](http://web.archive.org/web/20250821124031/https://i.thehoroscope.co/cancer-rabbit-the-emotional-artist-of-the-chinese-western-zodiac/)
+	- [Leo Rabbit: The Natural Charmer Of The Chinese Western Zodiac](https://i.thehoroscope.co/leo-rabbit-the-natural-charmer-of-the-chinese-western-zodiac/) [🏛️](http://web.archive.org/web/20250821124032/https://i.thehoroscope.co/leo-rabbit-the-natural-charmer-of-the-chinese-western-zodiac/)

@@ -5,8 +5,6 @@ cssclasses:
 tags:
   - documentation/data-json
 ---
-← Go back to [[Wayback Archiver]]
----
 {
 &nbsp;&nbsp;"activeProfileId": "default",
 &nbsp;&nbsp;"[[Wayback Archiver - Settings#Active profile|profiles]]": {

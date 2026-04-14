@@ -1,10 +1,12 @@
 ---
 icon: LiSettings
 title: Settings
+tags:
+  - documentation/obsidian-settings
 ---
-# Archive.org API keys (global)
+## Archive.org API keys (global)
 This is used globally across all profiles. [You can generate your API keys here.](https://archive.org/account/s3.php)
-## Archive.org SPN access key
+### Archive.org SPN access key
 Your S3-like access key for the SPN API v2.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -12,7 +14,7 @@ Your S3-like access key for the SPN API v2.
 > ```JSON
 >   "spnAccessKey": ""
 > ```
-## Archive.org SPN secret key
+### Archive.org SPN secret key
 Your S3-like secret key for the SPN API v2.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -20,8 +22,8 @@ Your S3-like secret key for the SPN API v2.
 > ```JSON
 >   "spnSecretKey": ""
 > ```
-# Profiles
-## Active profile
+## Profiles
+### Active profile
 Select the settings profile to use.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -50,8 +52,8 @@ Select the settings profile to use.
 >    }
 >  }
 > ```
-# Archive link format
-## Date format
+## Archive link format
+### Date format
 Format for the {date} placeholder in the archive link text (using date-fns format}).
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -59,7 +61,7 @@ Format for the {date} placeholder in the archive link text (using date-fns forma
 > ```JSON
 >       "dateFormat": "yyyy-MM-dd"
 > ```
-## Archive link text
+### Archive link text
 Text used for the inserted archive link. Use {date} as a placeholder.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -67,8 +69,8 @@ Text used for the inserted archive link. Use {date} as a placeholder.
 > ```JSON
 >       "archiveLinkText": "(Archived on {date})"
 > ```
-# Filtering rules (optional)
-## Ignore URL patterns
+## Filtering rules (optional)
+### Ignore URL patterns
 URLS matching these patterns (one per line, regex or simple text) will be ignored. Example: youtube\.com or internal-wiki
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -80,7 +82,7 @@ URLS matching these patterns (one per line, regex or simple text) will be ignore
 > ```
 
 **Define patterns to ONLY archive links within notes matching these criteria. If multiple filter types are used, the note/link must match ALL active filter types.**
-### Path patterns
+#### Path patterns
 Only archive links in notes whose file path matches these patterns (one per line, regex or simple text). Leave empty to ignore path.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -93,7 +95,7 @@ Only archive links in notes whose file path matches these patterns (one per line
 > ^Journal/.*
 > Projects/MyProject/
 > ```
-### URL patterns
+#### URL patterns
 Only archive links whose URL matches these patterns (one per line, regex or simple text). Leave empty to ignore URL.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -106,7 +108,7 @@ Only archive links whose URL matches these patterns (one per line, regex or simp
 > ^https://specific-domain\.com/
 > news-site
 > ```
-### Word/phrase patterns
+#### Word/phrase patterns
 Only archive links in notes containing ANY of these words or phrases (one per line, simple text match). Leave empty to ignore content.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -119,7 +121,7 @@ Only archive links in notes containing ANY of these words or phrases (one per li
 > Project Alpha
 > #research-topic
 > ```
-## URL substitution rules
+### URL substitution rules
 Apply find/replace rules to URLs before archiving. Useful for removing tracking parameters or normalizing links.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -137,8 +139,8 @@ Apply find/replace rules to URLs before archiving. Useful for removing tracking 
 >         }
 >       ]
 > ```
-# Advanced
-## API request delay (ms)
+## Advanced
+### API request delay (ms)
 Delay between API calls (initiate, status check, next link) in milliseconds.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -148,7 +150,7 @@ Delay between API calls (initiate, status check, next link) in milliseconds.
 > ```JSON
 >       "apiDelay": 2000
 > ```
-## Max status check retries
+### Max status check retries
 Maximum number of times to check the status of a pending archive job.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -158,7 +160,7 @@ Maximum number of times to check the status of a pending archive job.
 > ```JSON
 >       "maxRetries": 3
 > ```
-## Archive freshness (days)
+### Archive freshness (days)
 Only archive if the URL has not ben archived within this many days (0 = always archive if note present). Yses SPSN API `if_not_archived_within`.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -167,7 +169,7 @@ Only archive if the URL has not ben archived within this many days (0 = always a
 > ```JSON
 >       "archiveFreshnessDays": 0
 > ```
-## Auto clear failed logs
+### Auto clear failed logs
 Automatically clear failed logs after successful retries without confirmation.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -176,9 +178,9 @@ Automatically clear failed logs after successful retries without confirmation.
 > ```JSON
 >       "autoClearFailedLogs": false
 > ```
-# SPN API v2 options
+## SPN API v2 options
 These options correspond to parameters available in the Archive.org SPD API v2. [See documentation for details.](https://docs.google.com/document/d/1Nsv52MvSjbLb2PCpHlat0gkzw0EvtSgpKHu4mk0MnrA/edit?tab=t.0#heading=h.1gmodju1d6p0)
-## Capture screenshot
+### Capture screenshot
 Request a screenshot of the page during archive (SPN option).
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -187,7 +189,7 @@ Request a screenshot of the page during archive (SPN option).
 > ```JSON
 >       "captureScreenshot": false
 > ```
-## Capture all resources (capture_all=1)
+### Capture all resources (capture_all=1)
 Attempt to capture more resources like JS, CSS, embeds (SPN option). May increase capture time/failure rate.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -196,7 +198,7 @@ Attempt to capture more resources like JS, CSS, embeds (SPN option). May increas
 > ```JSON
 >       "captureAll": false
 > ```
-## JS behaviour timeout (ms)
+### JS behaviour timeout (ms)
 Max time (milliseconds) to allow JS execution during capture (0 = default). (SPN option)
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -205,7 +207,7 @@ Max time (milliseconds) to allow JS execution during capture (0 = default). (SPN
 > ```JSON
 >       "jsBehaviorTimeout": 0
 > ```
-## Force GET request (force_get=1)
+### Force GET request (force_get=1)
 Force the archiver to use a GET request (SPN option).
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -214,7 +216,7 @@ Force the archiver to use a GET request (SPN option).
 > ```JSON
 >       "forceGet": false
 > ```
-## Capture outlinks (capture_outlinks=1)
+### Capture outlinks (capture_outlinks=1)
 Attempt to capture pages linked from the main URL (SPN option). Use with caution, can be slow.
 
 > [!info] In [[Wayback Archiver - data.json|data.json]]
@@ -223,6 +225,3 @@ Attempt to capture pages linked from the main URL (SPN option). Use with caution
 > ```JSON
 >       "captureOutlinks": false
 > ```
-
-> [!important] My settings
-> I set this to `true`.

@@ -4,10 +4,10 @@ author: "[[Huajin]]"
 version: 1.1.8
 created: 2024-04-11T08:51:57Z
 last updated: 2025-10-23T09:07:51Z
-platforms:
-  - "[[Github]]"
 tags:
   - plugins/Obsidian
+Platforms:
+  - "[[Github]]"
 ---
 # Tabs
 [Github](https://github.com/xhuajin/obsidian-tabs)

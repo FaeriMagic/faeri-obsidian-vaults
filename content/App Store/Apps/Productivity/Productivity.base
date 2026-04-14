@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.tags.contains("app/productivity")
+views:
+  - type: cards
+    name: Apps
+    order:
+      - file.name
+      - App Category
+      - Age Rating
+      - Developer
+    cardSize: 150
+    image: note.App Icon

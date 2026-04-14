@@ -1,11 +1,11 @@
 ---
-app icon:
-category:
-platforms:
-age rating:
-programming language:
+App Category:
+App Icon:
+Platforms:
 tags:
   - meta/template
+Age rating:
+Programming language:
 ---
 <div style="display: flex; gap: 1em; margin: 0 auto; max-width: 840px">
 	<div style="align-items: center; display: flex; flex-shrink: 0; position: relative; width: 128px; z-index: 2;">

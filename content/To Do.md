@@ -31,3 +31,10 @@ Bugs:
 - Solution: Go back to the navigation pane and switch back to list pane
 
 - [ ] Replace "If `⟲` is clicked, this JSON property will be removed from `data.json`." to "If `⟲` is clicked, the JSON property will be removed from `data.json`."
+
+
+
+Notes:
+- Removed WeWard on iPad, because you can only login on one device at a time, and ads are limited, so it's just inconvenient to keep on logging in
+- Removed Bitwalk on iPad, because accumulated BTCp are NOT transferred over.
+- Currently, you CANNOT change your name in ByPet.

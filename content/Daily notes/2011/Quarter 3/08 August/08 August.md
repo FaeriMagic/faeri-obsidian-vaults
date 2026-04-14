@@ -14,5 +14,5 @@ icon: BiCalendarWeekFill
 | :------------------------------: | :-------------------------------------: |
 ### Links
 - [[i.TheHoroscope.co]]
-	- [Leo Rabbit: The Natural Charmer Of The Chinese Western Zodiac](https://i.thehoroscope.co/leo-rabbit-the-natural-charmer-of-the-chinese-western-zodiac/) - [[Denise]]
-	- [Virgo Rabbit: The Tolerant Helper Of The Chinese Western Zodiac](https://i.thehoroscope.co/virgo-rabbit-the-tolerant-helper-of-the-chinese-western-zodiac/) - [[Denise]]
+	- [Leo Rabbit: The Natural Charmer Of The Chinese Western Zodiac](https://i.thehoroscope.co/leo-rabbit-the-natural-charmer-of-the-chinese-western-zodiac/) [🏛️](https://web.archive.org/web/20250821124032/https://i.thehoroscope.co/leo-rabbit-the-natural-charmer-of-the-chinese-western-zodiac/)
+	- [Virgo Rabbit: The Tolerant Helper Of The Chinese Western Zodiac](https://i.thehoroscope.co/virgo-rabbit-the-tolerant-helper-of-the-chinese-western-zodiac/) [🏛️](https://web.archive.org/web/20250821124034/https://i.thehoroscope.co/virgo-rabbit-the-tolerant-helper-of-the-chinese-western-zodiac/)

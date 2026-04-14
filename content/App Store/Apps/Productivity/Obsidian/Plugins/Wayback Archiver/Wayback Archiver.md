@@ -3,22 +3,22 @@ author: "[[石津, 栄太郎|@IshizuEitaro]]"
 version: 1.1.5
 created: 2025-04-20T06:17:49Z
 last updated: 2026-03-31T14:49:45Z
-programming language:
-  - "[[TypeScript]]"
-  - "[[JavaScript]]"
-  - "[[CSS]]"
-platforms:
-  - "[[Github]]"
 category: Productivity Tools
 tags:
   - plugins/Obsidian/archiving
   - plugins/Obsidian/wayback-machine
   - plugins/Obsidian/web-links
+Platforms:
+  - "[[Github]]"
+Programming language:
+  - "[[TypeScript]]"
+  - "[[JavaScript]]"
+  - "[[CSS]]"
 ---
 > Automatically archives web links via Wayback Machine and appends archived versions in notes.
 
 | [Obsidian Stats](https://www.obsidianstats.com/plugins/wayback-archiver) |
-| :----------------------------------------------------------------------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 > [!abstract] [Github](https://github.com/IshizuEitaro/obsidian-wayback-archiver)
 > > [!info]- README
 > > ## Table of Contents
@@ -51,11 +51,15 @@ tags:
 > > - [[Wayback Archiver - Github documentation#Troubleshooting FAQ|Troubleshooting FAQ]]
 > > - [[Wayback Archiver - Github documentation#Limitations|Limitations]]
 > > - [[Wayback Archiver - Github documentation#LICENSE|LICENSE]]
+> 
+> > [!info]- Release history
+> > **2026**
+> > - [[1.1.5]] - Mar 31, 2026: The update is about cleaning up toolchain and tackling vulnerabilities. No impact on user experience.
 
 > [!abstract] Plugin
 > > [!warning] Requirements <span style="font-size: 12px; font-weight: 600; line-height: 16px; vertical-align: super; padding: 2px 8px;">Experimental</span>
 > > 
-> > You need a [Wayback Machine](https://archive.org/) account with [SPN API v2 keys](https://archive.org/account/s3.php) to archive links.
+> > You need a [Wayback Machine](https://archive.org/) account with [SPN API v2 keys](https://archive.org/account/s3.php) to archive links.
 > 
 > > [!info]- Settings
 > > 

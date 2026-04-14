@@ -1,8 +1,8 @@
 ---
-platforms:
-  - "[[Github]]"
 tags:
   - gender/unconfirmed
+Platforms:
+  - "[[Github]]"
 ---
 ![[avatar - moziar.png|100]]
 

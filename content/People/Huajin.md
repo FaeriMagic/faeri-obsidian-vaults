@@ -1,8 +1,8 @@
 ---
-platforms:
-  - "[[Github]]"
 tags:
   - gender/unconfirmed
+Platforms:
+  - "[[Github]]"
 ---
 ![[avatar - Huajin.png|100]]
 

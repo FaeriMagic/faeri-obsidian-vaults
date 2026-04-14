@@ -1,11 +1,15 @@
 ---
+created:
 icon:
 background:
 author:
 version:
-created:
 last updated:
-platforms:
+category:
+Platforms:
+tags:
+  - plugins/Obsidian
+Programming language:
 ---
 > Community plugin blurb.
 
@@ -19,7 +23,7 @@ platforms:
 > 
 > > [!info]- Release history
 > > **Year**
-> > - Version: Date
+> > - Version - Date: Release summary
 
 > [!abstract] Plugin
 > > [!warning] Requirements

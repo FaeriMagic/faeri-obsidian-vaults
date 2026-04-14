@@ -2,8 +2,8 @@
 created: 2019-01-01T00:00:00Z
 icon: BiCalendarWeekFill
 ---
-next month →
-# January
+← previous month | next month →
+
 | Week 01 | Week 02 | Week 03 | Week 04 | Week 05 |
 | ------- | ------- | ------- | ------- | ------- |
 ## Social media
@@ -13,5 +13,5 @@ next month →
 | :-----------------------------------------: | :----------------------------------------: |
 ### Links
 - [[i.TheHoroscope.co]]
-	- [Capricorn Pig: The Compassionate Carer Of The Chinese Western Zodiac](https://i.thehoroscope.co/capricorn-pig-the-compassionate-carer-of-the-chinese-western-zodiac/) - [[Denise]]
-	- [Aquarius Pig: The Optimistic Debaucher Of The Chinese Western Zodiac](https://i.thehoroscope.co/aquarius-pig-the-optimistic-debaucher-of-the-chinese-western-zodiac/)
+	- [Capricorn Pig: The Compassionate Carer Of The Chinese Western Zodiac](https://i.thehoroscope.co/capricorn-pig-the-compassionate-carer-of-the-chinese-western-zodiac/) [🏛️](http://web.archive.org/web/20250821130548/https://i.thehoroscope.co/capricorn-pig-the-compassionate-carer-of-the-chinese-western-zodiac/)
+	- [Aquarius Pig: The Optimistic Debaucher Of The Chinese Western Zodiac](https://i.thehoroscope.co/aquarius-pig-the-optimistic-debaucher-of-the-chinese-western-zodiac/) [🏛️](http://web.archive.org/web/20250821130558/https://i.thehoroscope.co/aquarius-pig-the-optimistic-debaucher-of-the-chinese-western-zodiac/)

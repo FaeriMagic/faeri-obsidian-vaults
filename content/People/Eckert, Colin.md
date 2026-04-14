@@ -1,7 +1,7 @@
 ---
 aliases:
   - Colin Eckert
-platforms:
+Platforms:
   - "[[Buy Me a Coffee]]"
   - "[[Github]]"
   - "[[LinkedIn]]"

@@ -6,7 +6,6 @@ summary: Enable fancy highlighting styles with highlight underlines
 tags:
   - style-settings/_my-settings
   - style-settings/style/font/highlight
-  - app
 ---
 ← Go back to [[App Store/Apps/Productivity/Obsidian/Themes/Things/Style Settings/Style Settings#Fancy highlighting|Things/Style Settings]]
 ## Fancy highlighting

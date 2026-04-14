@@ -3,7 +3,7 @@ created:
 icon: BiCalendarWeek
 ---
 ← previous week | next week →
-# Month
+## Month
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 |        |         |           |          |        |          |        |

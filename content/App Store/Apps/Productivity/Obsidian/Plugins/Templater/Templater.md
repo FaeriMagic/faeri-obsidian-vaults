@@ -4,10 +4,10 @@ author: "[[SilentVoid13]]"
 version: 2.18.1
 created: 2020-11-07T22:42:58Z
 last updated: 2026-01-29T15:12:02Z
-platforms:
-  - "[[Github]]"
 tags:
   - plugins/Obsidian
+Platforms:
+  - "[[Github]]"
 ---
 # Templater
 [Github](https://github.com/SilentVoid13/Templater)

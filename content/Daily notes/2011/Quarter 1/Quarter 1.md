@@ -2,7 +2,7 @@
 created: 2011-01-01T00:00:00Z
 icon: PhNumberOne
 ---
-next quarter →
+← previous quarter | next quarter →
 
 - 01 January
 - 02 February

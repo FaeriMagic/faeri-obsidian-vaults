@@ -9,4 +9,5 @@ RELEASE METHOD
 6: left red | yellow border
 
 # Golf
-Jump your eyes between the press area and then RELEASE PRESS.
+Aim for the pink area that touches the blue ring in the first half, then gradually aim lower after every miss or golden shot.
+Follow the cursor with your eye.

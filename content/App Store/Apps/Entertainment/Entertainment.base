@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.tags.contains("app/entertainment")
+views:
+  - type: cards
+    name: Apps
+    order:
+      - file.name
+      - App Category
+      - Age Rating
+      - Developer
+    image: note.app icon
+    cardSize: 150
+    imageAspectRatio: 1

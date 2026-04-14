@@ -4,7 +4,7 @@ author: "[[Tournet, Patrick|Patrick Tournet]]"
 version: "1.10"
 first release: 2023-09-24 14:43:35Z
 last updated: 2023-12-03T17:09:53.000Z
-platforms:
+Platforms:
   - "[[Github]]"
 ---
 > [!important] See [[Tabs]] as a more up-to-date alternative.

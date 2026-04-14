@@ -7,6 +7,8 @@ tags:
 | key | value |
 | --- | ----- |
 |     |       |
-# Obsidian plugins
+## Articles
+## Obsidian
+### Plugins
 
-# Obsidian themes
+### Themes

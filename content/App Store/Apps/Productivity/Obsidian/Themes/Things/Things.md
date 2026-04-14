@@ -4,10 +4,10 @@ accent color: "#4C8CE6"
 version: 2.1.20
 first release: 2021-11-02T14:10:01Z
 last updated: 2024-01-20T21:46:37Z
-platforms:
-  - "[[Github]]"
 tags:
   - themes/Obsidian
+Platforms:
+  - "[[Github]]"
 ---
 # Things 2
 [Github](https://github.com/colineckert/obsidian-things)

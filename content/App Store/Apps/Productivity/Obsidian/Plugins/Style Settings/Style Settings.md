@@ -3,10 +3,10 @@ author: "[[Meyers, Matthew|Matthew Meyers]]"
 version: 1.0.9
 created: 2021-03-30T01:46:22Z
 last updated: 2024-08-24T17:45:16Z
-platforms:
-  - "[[Github]]"
 tags:
   - plugins/Obsidian
+Platforms:
+  - "[[Github]]"
 ---
 # Style Settings
 [Github](https://github.com/mgmeyers/obsidian-style-settings)

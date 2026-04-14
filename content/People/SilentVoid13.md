@@ -1,12 +1,12 @@
 ---
 aliases:
   - sil3ntv0id
-platforms:
+tags:
+  - gender/unconfirmed
+Platforms:
   - "[[Github]]"
   - "[[PayPal]]"
   - "[[X (Twitter)]]"
-tags:
-  - gender/unconfirmed
 ---
 ![[avatar - SilentVoid13.jpg|100]]
 

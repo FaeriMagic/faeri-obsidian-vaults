@@ -7,10 +7,10 @@ author: "[[Sanneblad, Johan|Johan Sanneblad]]"
 version: 2.5.2
 created: 2025-06-08T20:52:49Z
 last updated: 2026-03-20T19:58:51Z
-platforms:
-  - "[[Github]]"
 tags:
   - plugins/Obsidian
+Platforms:
+  - "[[Github]]"
 ---
 # Notebook Navigator
 [Github](https://github.com/johansan/notebook-navigator)

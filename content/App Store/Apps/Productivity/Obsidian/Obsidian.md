@@ -1,9 +1,14 @@
 ---
 icon: SiObsidian
-app icon: "[[Icon - Obsidian.webp]]"
 background: "#8A5CF540"
 logo color: "#8A5CF5"
-platforms:
+App Category: Productivity
+App Icon: "[[Icon - Obsidian.webp]]"
+Developer: "[[Dynalist]]"
+tags:
+  - app/productivity
+  - language/english
+Platforms:
   - App Store
   - "[[Bluesky]]"
   - "[[Discord]]"
@@ -13,14 +18,11 @@ platforms:
   - "[[Threads]]"
   - "[[X (Twitter)]]"
   - "[[YouTube]]"
-age rating: 4+
-programming language:
+Age rating: 4+
+Programming language:
   - "[[CSS]]"
   - "[[JavaScript]]"
   - "[[TypeScript]]"
-tags:
-  - app/productivity
-  - language/english
 ---
 <div style="display: flex; gap: 1em; margin: 0 auto; max-width: 840px">
 	<div style="align-items: center; display: flex; flex-shrink: 0; position: relative; width: 128px; z-index: 2;">
@@ -33,7 +35,6 @@ tags:
 	</div>
 </div>
 
-**Developer:** [[Dynalist]] Inc.
 **Seller:** [[Dynalist]] Inc.
 **Copyright:** © [[Dynalist]] Inc.
 

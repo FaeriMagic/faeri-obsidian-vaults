@@ -1,8 +1,11 @@
 ---
-age rating: 16+
+App Category: Entertainment
+App Icon: "[[Icon - Freecash.webp]]"
+Developer: "[[256 REWARDS LTD]]"
 tags:
   - app/entertainment
   - language/english
+Age rating: 16+
 ---
 <div style="display: flex; gap: 1em; margin: 0 auto; max-width: 840px">
 	<div style="align-items: center; display: flex; flex-shrink: 0; position: relative; width: 128px; z-index: 2;">

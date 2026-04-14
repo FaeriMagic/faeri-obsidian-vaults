@@ -1,2 +1,1 @@
 - [[Daily notes]]
-- [[App Store]]
