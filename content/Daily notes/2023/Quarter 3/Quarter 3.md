@@ -4,6 +4,6 @@ icon: PhNumberThree
 ---
 ← previous quarter | [[Daily notes/2023/Quarter 4/Quarter 4|next quarter]] →
 
-- 07 July
-- [[Daily notes/2023/Quarter 3/08 August/08 August|08 August]]
-- [[Daily notes/2023/Quarter 3/09 September/09 September|09 September]]
+- [[07 - July 2023]]
+- [[08 - August 2023]]
+- [[09 - September 2023]]

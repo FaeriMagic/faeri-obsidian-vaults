@@ -1,13 +1,11 @@
 ---
 icon: SiObsidian
 background: "#8A5CF540"
-logo color: "#8A5CF5"
-App Category: Productivity
-App Icon: "[[Icon - Obsidian.webp]]"
+App category: Productivity
+App icon: "[[Icon - Obsidian.webp]]"
+Age rating: 4+
 Developer: "[[Dynalist]]"
-tags:
-  - app/productivity
-  - language/english
+logo color: "#8A5CF5"
 Platforms:
   - App Store
   - "[[Bluesky]]"
@@ -18,11 +16,13 @@ Platforms:
   - "[[Threads]]"
   - "[[X (Twitter)]]"
   - "[[YouTube]]"
-Age rating: 4+
 Programming language:
   - "[[CSS]]"
   - "[[JavaScript]]"
   - "[[TypeScript]]"
+tags:
+  - app/productivity
+  - language/english
 ---
 <div style="display: flex; gap: 1em; margin: 0 auto; max-width: 840px">
 	<div style="align-items: center; display: flex; flex-shrink: 0; position: relative; width: 128px; z-index: 2;">
@@ -54,15 +54,15 @@ Programming language:
 - [X (Twitter)](https://x.com/obsdmd) (Join date: [[Daily notes/2020/Quarter 1/03 March/03 March|March 2020]], Verification date: [[Daily notes/2023/Quarter 3/08 August/08 August|August 2023]])
 - [YouTube](https://www.youtube.com/channel/UCRP5KXKq8Ytc6IH06VWRmkQ) (Join date: Jan 25, 2017)
 
-| ![[iPhone preview image 1.webp]] | ![[iPhone preview image 2.webp]] | ![[iPhone preview image 3.webp]] |
+| ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 1.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 2.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 3.webp]] |
 | --- | --- | --- |
-| ![[iPhone preview image 4.webp]] | ![[iPhone preview image 5.webp]] | ![[iPhone preview image 6.webp]] |
-| ![[iPhone preview image 7.webp]]  |     |     |
+| ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 4.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 5.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 6.webp]] |
+| ![[App Store/Apps/Productivity/Obsidian/images/iPhone/iPhone preview image 7.webp]]  |     |     |
 
-| ![[iPad preview image 1.webp]] | ![[iPad preview image 2.webp]] |
+| ![[App Store/Apps/Productivity/Obsidian/images/iPad/iPad preview image 1.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPad/iPad preview image 2.webp]] |
 | --- | --- |
-| ![[iPad preview image 3.webp]] | ![[iPad preview image 4.webp]] |
-| ![[iPad preview image 5.webp]] | ![[iPad preview image 6.webp]] |
+| ![[App Store/Apps/Productivity/Obsidian/images/iPad/iPad preview image 3.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPad/iPad preview image 4.webp]] |
+| ![[App Store/Apps/Productivity/Obsidian/images/iPad/iPad preview image 5.webp]] | ![[App Store/Apps/Productivity/Obsidian/images/iPad/iPad preview image 6.webp]] |
 | ![[iPad preview image 7.webp]] |                                |
 
 Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.

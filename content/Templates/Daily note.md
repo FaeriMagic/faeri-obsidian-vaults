@@ -6,6 +6,7 @@ created:
 **Wikipedia:** [Portal:Current events/\<date>]()
 ## Social media
 - \<Person **link**> joined Facebook.
+- \<Person **link**> joined Reddit.
 - \<Person **link**> joined YouTube.
 ## Articles
 - \<Article **link**> - \<Person **link**> (\<Website **link**>)

@@ -4,4 +4,6 @@ icon: PhNumberOne
 ---
 ← [[Daily notes/2012/Quarter 4/Quarter 4|previous quarter]] | next quarter →
 
-- [[Daily notes/2013/Quarter 1/01 January/01 January|01 January]]
+- [[01 - January 2013]]
+- 02 - February 2013
+- 03 - March 2013

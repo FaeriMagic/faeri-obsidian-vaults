@@ -4,6 +4,6 @@ icon: PhNumberFour
 ---
 ← previous quarter | next quarter →
 
-- [[Daily notes/2017/Quarter 4/10 October/10 October|10 October]]
-- [[Daily notes/2017/Quarter 4/11 November/11 November|11 November]]
-- 12 December
+- [[10 - October 2017]]
+- [[11 - November 2017]]
+- 12 - December 2017

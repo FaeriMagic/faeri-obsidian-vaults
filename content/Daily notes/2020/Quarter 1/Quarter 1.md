@@ -4,6 +4,6 @@ icon: PhNumberOne
 ---
 ← previous quarter | next quarter →
 
-- 01 January
-- 02 February
-- [[Daily notes/2020/Quarter 1/03 March/03 March|03 March]]
+- 01 - January 2020
+- 02 - February 2020
+- [[03 - March 2020]]

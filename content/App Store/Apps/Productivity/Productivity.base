@@ -9,5 +9,5 @@ views:
       - App Category
       - Age Rating
       - Developer
-    cardSize: 150
+    cardSize: 180
     image: note.App Icon

@@ -4,6 +4,6 @@ icon: PhNumberOne
 ---
 ← [[Daily notes/2018/Quarter 4/Quarter 4|previous quarter]] | next quarter →
 
-- [[Daily notes/2019/Quarter 1/01 January/01 January|01 January]]
-- 02 February
-- [[Daily notes/2019/Quarter 1/03 March/03 March|03 March]]
+- [[01 - January 2019]]
+- 02 - February 2019
+- [[03 - March 2019]]

@@ -4,6 +4,6 @@ icon: PhNumberThree
 ---
 ← previous quarter | next quarter →
 
-- 07 July
-- 08 August
-- [[Daily notes/2015/Quarter 3/09 September/09 September|09 September]]
+- 07 - July 2015
+- 08 - August 2015
+- [[09 - September 2015]]

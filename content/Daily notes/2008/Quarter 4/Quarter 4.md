@@ -4,6 +4,6 @@ icon: PhNumberFour
 ---
 ← [[Daily notes/2008/Quarter 3/Quarter 3|previous quarter]] | next quarter →
 
-- 10 October
-- [[Daily notes/2008/Quarter 4/11 November/11 November|11 November]]
-- 12 December
+- 10 - October 2008
+- [[11 - November 2008]]
+- 12 - December 2008

@@ -4,6 +4,6 @@ icon: PhNumberOne
 ---
 ← [[Daily notes/2025/Quarter 4/Quarter 4|previous quarter]] | next quarter →
 
-- [[Daily notes/2026/Quarter 1/01 January/01 January|01 January]]
-- 02 February
-- [[Daily notes/2026/Quarter 1/03 March/03 March|03 March]]
+- [[01 - January 2026]]
+- [[02 - February 2026]]
+- [[03 - March 2026]]

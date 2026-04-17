@@ -10,9 +10,11 @@ icon: BiCalendarWeekFill
 ## Social media
 - \<Person link> joined Instagram.
 - \<Person link> was verified on Instagram.
-- \<Person link> was the \<NUMBER VALUE> person to join Threads.
+- \<Person link> was the \<NUMBER VALUE> account to join Threads.
 - \<Person link> joined Twitter. %% Before July  22, 2023 %%
 - \<Person link> joined X (Twitter) %% After July 22, 2023 %%
+- \<Person link> was verified on Twitter. %% Before July  22, 2023 %%
+- \<Person link> was verified on X (Twitter) %% After July 22, 2023 %%
 ## Zodiac
 | **Capricorn**<br>(December 22 - January 19) | **Aquarius**<br>(January 20 - February 18) |
 | :-----------------------------------------: | :----------------------------------------: |
@@ -49,3 +51,6 @@ icon: BiCalendarWeekFill
 
 | **Sagittarius**<br>(November 22 - December 21) | **Capricorn**<br>(December 22 - January 19) |
 | :--------------------------------------------: | :-----------------------------------------: |
+### Links
+- [[i.TheHoroscope.co]]
+	- 

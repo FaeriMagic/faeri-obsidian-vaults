@@ -4,6 +4,6 @@ icon: PhNumberThree
 ---
 ← previous quarter | next quarter →
 
-- 07 July
-- [[Daily notes/2011/Quarter 3/08 August/08 August|08 August]]
-- 09 September
+- 07 - July 2011
+- [[08 - August 2011]]
+- 09 - September 2011

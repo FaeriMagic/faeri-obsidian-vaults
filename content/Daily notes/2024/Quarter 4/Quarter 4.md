@@ -4,6 +4,6 @@ icon: PhNumberFour
 ---
 ← [[Daily notes/2024/Quarter 3/Quarter 3|previous quarter]] | next quarter →
 
-- 10 October
-- 11 November
-- [[Daily notes/2024/Quarter 4/12 December/12 December|12 December]]
+- 10 - October 2024
+- 11 - November 2024
+- [[12 - December 2024]]

@@ -34,7 +34,7 @@ Platforms:
 #### June
 - `2024-06-17`: [Year of the Tiger: What the Year Has in Store for You](https://www.rd.com/article/year-of-the-tiger/) [🏛️](https://web.archive.org/web/20260316085831/https://www.rd.com/article/year-of-the-tiger/) - [[Markarian, Taylor]]  *(Updated)*
 #### August
-- `2024-08-04`: [Chinese Zodiac: Year of the Rabbit Predictions for Every Sign](https://www.rd.com/article/year-of-the-rabbit/) [🏛️](https://web.archive.org/web/20260208171306/https://www.rd.com/article/year-of-the-rabbit/) - [[Ong, Giannina]] *(Updated)*
+- `2024-08-04`: [Year of the Rabbit: What the Year Has in Store for You](https://www.rd.com/article/year-of-the-rabbit/) [🏛️](https://web.archive.org/web/20260208171306/https://www.rd.com/article/year-of-the-rabbit/) - [[Ong, Giannina]] *(Updated)*
 - `2024-08-05`: [Year of the Dragon Predictions for Each Sign: 2024 Chinese Zodiac](https://www.rd.com/article/year-of-the-dragon/) [🏛️](https://web.archive.org/web/20251228131625/https://www.rd.com/article/year-of-the-dragon/)  - [[Dearman, Jill]] *(Updated)*
 - `2024-12-19`: [Horoscopes 2025: What the Year Has in Store for Each Zodiac Sign](https://www.rd.com/article/horoscopes-2025/) [🏛️](https://web.archive.org/web/20251217025403/https://www.rd.com/article/horoscopes-2025/) - [[Dearman, Jill]]
 ### 2025

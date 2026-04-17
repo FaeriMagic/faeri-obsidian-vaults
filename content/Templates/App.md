@@ -1,11 +1,11 @@
 ---
-App Category:
-App Icon:
-Platforms:
-tags:
-  - meta/template
+App category:
+App icon:
 Age rating:
+Platforms:
 Programming language:
+tags:
+Developer:
 ---
 <div style="display: flex; gap: 1em; margin: 0 auto; max-width: 840px">
 	<div style="align-items: center; display: flex; flex-shrink: 0; position: relative; width: 128px; z-index: 2;">
@@ -19,18 +19,34 @@ Programming language:
 	</div>
 </div>
 
-**Developer:** 
-**Seller:**  
-**Copyright:**  
+> [!tip] Referral links
+> Contents
 
-**Official website:**  
-**email:**  
-
+|    key    | value |
+| :-------: | :---- |
+|  Seller   |       |
+| Copyright |       |
+|   email   |       |
 **Commercial links:**
--  
+- Official website
+- App Store
 
 **Social links:**
 -  Shortcut (Join date)
+- 
+> [!example]- iPhone previews
+> |  |  |  |
+> | --- | --- | --- |
+> |  |  |  |
+> |  |  |  |
+
+> [!example]- iPad previews
+> |  |  |  |
+> | --- | --- | --- |
+> |  |  |  |
+> |  |  |  |
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ## Offerwall (ayeT Studios)
 <table>
   <tr>

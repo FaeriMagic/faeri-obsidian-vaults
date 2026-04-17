@@ -27,4 +27,4 @@ Platforms:
 ## Articles
 ### 2024
 #### August
-- `2024-08-04`: [Chinese Zodiac: Year of the Rabbit Predictions for Every Sign](https://www.rd.com/article/year-of-the-rabbit/) [🏛️](https://web.archive.org/web/20260208171306/https://www.rd.com/article/year-of-the-rabbit/) - [[Reader's Digest]] *(Updated)*
+- `2024-08-04`: [Year of the Rabbit: What the Year Has in Store for You](https://www.rd.com/article/year-of-the-rabbit/) [🏛️](https://web.archive.org/web/20260208171306/https://www.rd.com/article/year-of-the-rabbit/) - [[Reader's Digest]] *(Updated)* #missing-wayback (needs rearchive)

@@ -1,1 +1,1 @@
-- [[Daily notes]]
+# Referrals

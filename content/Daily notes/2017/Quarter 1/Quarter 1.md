@@ -4,6 +4,6 @@ icon: PhNumberOne
 ---
 ← previous quarter | next quarter →
 
-- [[Daily notes/2017/Quarter 1/01 January/01 January|01 January]]
-- 02 February
-- 03 March
+- [[01 - January 2017]]
+- 02 - February 2017
+- 03 - March 2017
