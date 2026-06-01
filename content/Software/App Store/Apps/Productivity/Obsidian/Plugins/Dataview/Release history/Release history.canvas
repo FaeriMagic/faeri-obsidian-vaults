@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"5a420f3bc1db3885","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Dataview/Release history/Dataview (0.5.68).md","x":-232,"y":380,"width":572,"height":660},
+		{"id":"c46093e52f558564","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Dataview/Release history/Dataview (0.5.70).md","x":-232,"y":-60,"width":572,"height":400},
+		{"id":"862beae52fddd336","type":"text","text":"# Release history","x":-232,"y":-160,"width":572,"height":60},
+		{"id":"5bb5ce81ebb84952","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Dataview/Release history/Dataview (0.5.67).md","x":-232,"y":1080,"width":572,"height":700},
+		{"id":"4f6b37896317692b","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Dataview/Release history/Dataview (0.5.66).md","x":-232,"y":1820,"width":572,"height":420},
+		{"id":"623f061a089bbaff","x":-232,"y":2280,"width":572,"height":860,"type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Dataview/Release history/Dataview (0.5.65).md"}
+	],
+	"edges":[
+		{"id":"3247e1b7dff2599c","fromNode":"5a420f3bc1db3885","fromSide":"top","toNode":"c46093e52f558564","toSide":"bottom"},
+		{"id":"3c1d1750766e3e74","fromNode":"5bb5ce81ebb84952","fromSide":"top","toNode":"5a420f3bc1db3885","toSide":"bottom"},
+		{"id":"223d8f44ae836b9b","fromNode":"4f6b37896317692b","fromSide":"top","toNode":"5bb5ce81ebb84952","toSide":"bottom"},
+		{"id":"0b63e0447a905d49","fromNode":"623f061a089bbaff","fromSide":"top","toNode":"4f6b37896317692b","toSide":"bottom"}
+	]
+}

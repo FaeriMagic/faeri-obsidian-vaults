@@ -1,0 +1,26 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - file.folder == "App Store/Games/ByPet/Pets"
+    - file.ext == "md"
+properties:
+  note.stat - power:
+    displayName: Power
+  note.stat - consumption:
+    displayName: Consumption
+views:
+  - type: cards
+    name: Pets
+    order:
+      - title
+      - stat - power
+      - stat - consumption
+    sort:
+      - property: stat - consumption
+        direction: ASC
+    image: note.cover
+    cardSize: 160

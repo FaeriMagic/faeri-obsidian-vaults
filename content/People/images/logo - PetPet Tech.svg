@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" fill="none">
+  <defs>
+    <linearGradient id="logo-grad" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded square background -->
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="url(#logo-grad)" stroke="#EA580C" stroke-width="2.5"/>
+  <!-- Paw print icon -->
+  <ellipse cx="18" cy="18" rx="4" ry="4.5" fill="#FFF7ED" opacity="0.95"/>
+  <ellipse cx="30" cy="18" rx="4" ry="4.5" fill="#FFF7ED" opacity="0.95"/>
+  <ellipse cx="13" cy="27" rx="3.2" ry="3.8" fill="#FFF7ED" opacity="0.95"/>
+  <ellipse cx="35" cy="27" rx="3.2" ry="3.8" fill="#FFF7ED" opacity="0.95"/>
+  <ellipse cx="24" cy="32" rx="8" ry="6.5" fill="#FFF7ED" opacity="0.95"/>
+  <!-- Brand text -->
+  <text x="56" y="22" font-family="Fredoka, sans-serif" font-weight="600" font-size="18" fill="#9A3412">PetPet</text>
+  <text x="56" y="40" font-family="Nunito, sans-serif" font-weight="400" font-size="12" fill="#FB923C">T E C H</text>
+</svg>

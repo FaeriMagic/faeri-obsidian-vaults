@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder.startsWith("App Store/Apps/Utilities/Vivaldi Browser/Themes")
+    - file.ext == "md"
+properties:
+  note.created:
+    displayName: Date
+views:
+  - type: cards
+    name: Themes
+    order:
+      - file.basename
+      - created
+    cardSize: 260
+    imageAspectRatio: 0.65
+    showProperties: true
+    image: note.cover

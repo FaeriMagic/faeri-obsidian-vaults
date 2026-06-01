@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.tags.contains("app/roleplaying")
+properties:
+  note.developer:
+    displayName: Developer
+  note.age rating:
+    displayName: Age Rating
+  note.app category:
+    displayName: Category
+views:
+  - type: cards
+    name: Apps
+    order:
+      - file.name
+      - app category
+      - developer
+      - age rating
+    image: note.app icon
+    cardSize: 200

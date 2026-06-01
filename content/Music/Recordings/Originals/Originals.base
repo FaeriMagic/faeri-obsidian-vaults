@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder == "Music/Originals"
+    - file.ext == "md"
+views:
+  - type: list
+    name: Songs
+    order:
+      - file.name

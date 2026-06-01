@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder == "Music/Covers"
+    - file.ext == "md"
+views:
+  - type: list
+    name: View
+    order:
+      - file.name

@@ -1,0 +1,33 @@
+views:
+  - type: list
+    name: Pages
+    filters:
+      or:
+        - and:
+            - file.folder == "App Store"
+            - file.ext != "base"
+            - file.ext != "png"
+        - file.folder == "App Store/Apps"
+        - or:
+            - file.folder == "App Store/Apps"
+            - file.folder == "App Store/Stories"
+            - file.folder == "App Store/Games"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    indentProperties: false
+    separator: ": "
+  - type: cards
+    name: Apps
+    filters:
+      and:
+        - file.tags.contains("app")
+    order:
+      - file.name
+      - app category
+      - age rating
+      - Developer
+    image: note.App icon
+    cardSize: 180

@@ -1,0 +1,9 @@
+views:
+  - type: list
+    name: Categories
+    filters:
+      and:
+        - and:
+            - file.basename == "Roleplaying"
+  - type: table
+    name: View

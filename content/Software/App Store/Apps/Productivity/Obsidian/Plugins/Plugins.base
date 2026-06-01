@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.inFolder("App Store/Apps/Productivity/Obsidian/Plugins")
+    - "!author.isEmpty()"
+    - '!note["last updated"].isEmpty()'
+views:
+  - type: list
+    name: Plugins
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - author
+    sort: []
+    separator: " - "

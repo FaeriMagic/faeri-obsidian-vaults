@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.folder.contains("App Store/Apps/Utilities/Vivaldi Browser/Themes")
+    - author == link("Team Vivaldi.canvas")
+views:
+  - type: cards
+    name: View
+    cardSize: 230
+    imageAspectRatio: 0.65
+    image: note.cover

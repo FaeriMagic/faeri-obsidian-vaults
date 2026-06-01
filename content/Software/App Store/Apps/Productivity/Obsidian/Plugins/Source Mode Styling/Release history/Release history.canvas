@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"df18ebc460200e26","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (v0.2.22).md","x":-250,"y":-4520,"width":550,"height":500},
+		{"id":"82786283853de6ae","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.25).md","x":-250,"y":-5820,"width":550,"height":1260},
+		{"id":"e091143a2c688fd9","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.26).md","x":-250,"y":-6620,"width":550,"height":760},
+		{"id":"98c0b973d7bba2cf","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.27).md","x":-250,"y":-7140,"width":550,"height":480},
+		{"id":"940b0ee5de502f4f","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.28).md","x":-250,"y":-7540,"width":550,"height":360},
+		{"id":"9635e8bd6a2dc3d7","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.31).md","x":-250,"y":-9240,"width":550,"height":460},
+		{"id":"5b1159ce130ae5f7","type":"text","text":"# Release history","x":-250,"y":-9340,"width":550,"height":60},
+		{"id":"b2d55f9bc7df7d10","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (v0.2.21).md","x":-250,"y":-3980,"width":550,"height":1240},
+		{"id":"67489ee51ac29b55","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.18).md","x":-250,"y":-2700,"width":550,"height":700},
+		{"id":"31eef5b178f6a948","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.16).md","x":-250,"y":-1960,"width":550,"height":320},
+		{"id":"c6666121a1082f06","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.14).md","x":-250,"y":-1600,"width":550,"height":430},
+		{"id":"da0204c2dceddb0b","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.13).md","x":-250,"y":-1140,"width":550,"height":840},
+		{"id":"d7ab48679b405e3a","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.10).md","x":-250,"y":-260,"width":550,"height":320},
+		{"id":"6f4937ec32d30082","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Source Mode Styling/Release history/Source Mode Styling (0.2.30).md","x":-250,"y":-8700,"width":550,"height":1160}
+	],
+	"edges":[
+		{"id":"1d356779eb9fd41e","fromNode":"df18ebc460200e26","fromSide":"top","toNode":"82786283853de6ae","toSide":"bottom"},
+		{"id":"afa48d4051d56aa3","fromNode":"82786283853de6ae","fromSide":"top","toNode":"e091143a2c688fd9","toSide":"bottom"},
+		{"id":"be8425dd79bb106a","fromNode":"e091143a2c688fd9","fromSide":"top","toNode":"98c0b973d7bba2cf","toSide":"bottom"},
+		{"id":"0feb095e6c21a9ce","fromNode":"98c0b973d7bba2cf","fromSide":"top","toNode":"940b0ee5de502f4f","toSide":"bottom"},
+		{"id":"a777ce196c63c8b0","fromNode":"940b0ee5de502f4f","fromSide":"top","toNode":"6f4937ec32d30082","toSide":"bottom"},
+		{"id":"bd655c9e54d478da","fromNode":"6f4937ec32d30082","fromSide":"top","toNode":"9635e8bd6a2dc3d7","toSide":"bottom"},
+		{"id":"8248bbd498d95bf6","fromNode":"b2d55f9bc7df7d10","fromSide":"top","toNode":"df18ebc460200e26","toSide":"bottom"},
+		{"id":"b04c83be8faf4480","fromNode":"67489ee51ac29b55","fromSide":"top","toNode":"b2d55f9bc7df7d10","toSide":"bottom"},
+		{"id":"bc0d428644057ae4","fromNode":"31eef5b178f6a948","fromSide":"top","toNode":"67489ee51ac29b55","toSide":"bottom"},
+		{"id":"43da089228c75752","fromNode":"c6666121a1082f06","fromSide":"top","toNode":"31eef5b178f6a948","toSide":"bottom"},
+		{"id":"4886890796315589","fromNode":"da0204c2dceddb0b","fromSide":"top","toNode":"c6666121a1082f06","toSide":"bottom"},
+		{"id":"dc65513c0e3255cb","fromNode":"d7ab48679b405e3a","fromSide":"top","toNode":"da0204c2dceddb0b","toSide":"bottom"}
+	]
+}

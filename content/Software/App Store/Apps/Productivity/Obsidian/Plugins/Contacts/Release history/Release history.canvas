@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"32b427a2b6fe0bc8","type":"text","text":"# Release history","x":240,"y":-1240,"width":540,"height":60},
+		{"id":"7ebcc9cce42762b3","type":"file","file":"Software/App Store/Apps/Productivity/Obsidian/Plugins/Contacts/Release history/Contacts (1.2.0).md","x":240,"y":-1140,"width":540,"height":380},
+		{"id":"3eb5b9760773f84e","type":"file","file":"Software/App Store/Apps/Productivity/Obsidian/Plugins/Contacts/Release history/Contacts (1.1.0).md","x":240,"y":-720,"width":540,"height":360},
+		{"id":"be2efd8b702284a8","type":"file","file":"Software/App Store/Apps/Productivity/Obsidian/Plugins/Contacts/Release history/Contacts (1.0.1).md","x":240,"y":-320,"width":540,"height":340},
+		{"id":"ff3bf89867eeaca8","type":"file","file":"Software/App Store/Apps/Productivity/Obsidian/Plugins/Contacts/Release history/Contacts (1.0.0).md","x":240,"y":60,"width":540,"height":340}
+	],
+	"edges":[
+		{"id":"5021a49b7962dea9","fromNode":"3eb5b9760773f84e","fromSide":"top","toNode":"7ebcc9cce42762b3","toSide":"bottom"},
+		{"id":"e6669e80d0d50bb5","fromNode":"be2efd8b702284a8","fromSide":"top","toNode":"3eb5b9760773f84e","toSide":"bottom"},
+		{"id":"d42511228ffbf46c","fromNode":"ff3bf89867eeaca8","fromSide":"top","toNode":"be2efd8b702284a8","toSide":"bottom"}
+	]
+}

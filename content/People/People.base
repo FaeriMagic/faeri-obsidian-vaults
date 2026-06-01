@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.folder.contains("People")
+    - or:
+        - file.ext == "md"
+        - file.ext == "canvas"
+properties:
+  note.gender:
+    displayName: Gender
+  note.location:
+    displayName: Location
+  note.city:
+    displayName: City
+  note.country:
+    displayName: Country
+  note.birthdate:
+    displayName: Birthday
+views:
+  - type: cards
+    name: Contact cards
+    order:
+      - file.name
+      - gender
+      - country
+    sort:
+      - property: cover
+        direction: ASC
+    image: note.cover
+    cardSize: 150
+  - type: list
+    name: List
+    groupBy:
+      property: gender
+      direction: ASC
+    order:
+      - file.name
+    sort: []

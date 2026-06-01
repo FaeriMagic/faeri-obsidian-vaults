@@ -1,0 +1,31 @@
+properties:
+  file.name:
+    displayName: Category
+views:
+  - type: list
+    name: App Categories
+    filters:
+      and:
+        - and:
+            - file.folder == "App Store/Apps/Entertainment"
+            - file.basename == "Entertainment"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    indentProperties: false
+    separator: ": "
+  - type: cards
+    name: Apps
+    filters:
+      or:
+        - file.tags.contains("app/entertainment")
+        - file.tags.contains("app/productivity")
+    order:
+      - file.name
+      - App Category
+      - age rating
+      - Developer
+    image: note.app icon
+    cardSize: 180

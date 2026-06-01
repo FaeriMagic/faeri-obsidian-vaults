@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"14219b0560e617a1","type":"file","file":"App Store/Apps/Productivity/Obsidian/Plugins/Pretty Properties/Release history/Pretty Properties (1.10.17).md","x":-280,"y":-200,"width":420,"height":360},
+		{"id":"9cf96669dd81f649","type":"text","text":"# Release history","x":-280,"y":-280,"width":420,"height":50}
+	],
+	"edges":[]
+}
